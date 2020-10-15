@@ -13,7 +13,14 @@ minesweeper exercise
 
 ## commands
 
-ckeckout
+### ckeckout
+permite cambiar de rama
 ~~~
 git checkout develop
+~~~
+
+### branch
+lista las ramas
+~~~
+git branch
 ~~~
