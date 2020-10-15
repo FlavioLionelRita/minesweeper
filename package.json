@@ -1,0 +1,19 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "description": "minesweeper excercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlavioLionelRita/minesweeper.git"
+  },
+  "author": "Flavio Lionel Rita <flaviolrita@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FlavioLionelRita/minesweeper/issues"
+  },
+  "homepage": "https://github.com/FlavioLionelRita/minesweeper#readme"
+}
