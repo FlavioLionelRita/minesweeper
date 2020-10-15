@@ -26,4 +26,9 @@ git branch
 ~~~
 
 
+### Crear branch
+
+~~~
+git checkout -b feature_x
+~~~
 a
