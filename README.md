@@ -31,4 +31,8 @@ git branch
 ~~~
 git checkout -b feature_x
 ~~~
-a
+
+la primera que se sube 
+~~~
+git push --set-upstream origin feature_x
+~~~
